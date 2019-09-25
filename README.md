@@ -1,10 +1,10 @@
 # Sansan-blog
 练习前端和spring-boot的一个博客项目。
-## 2、模板引擎
+## 模板引擎
 
 JSP、Velocity、FreeMarker、Thymeleaf
 
-![1569340696137](C:\Users\Caofei\AppData\Roaming\Typora\typora-user-images\1569340696137.png)
+
 
 SpringBoot 推荐的模板引擎是Thymeleaf;(称之为高级语言模板引擎，它的语法更简单，功能更强大)
 
@@ -72,7 +72,6 @@ public class ThymeleafProperties {
 
 ​		th:任意html属性；来替换原生属性的值；
 
-![1569343275672](C:\Users\Caofei\AppData\Roaming\Typora\typora-user-images\1569343275672.png)
 
 2）、表达式？
 
